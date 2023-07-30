@@ -1,0 +1,32 @@
+div {
+    font-family: 'Gill Sans', Gill Sans MT, 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #272D33;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+}
+
+nav {
+    background-color: #1b344d;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.items {
+    background-color: #1b344d;
+}
+
+.items:hover {
+    background-color: #000000;
+}
+
+a {
+    text-decoration: none;
+}
+
+.idk {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
